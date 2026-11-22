@@ -1,0 +1,39 @@
+{
+  "name": "express-mvc-init",
+  "version": "1.0.0",
+  "description": "A zero-dependency CLI scaffolder that generates a clean MVC folder structure for Express.js projects.",
+  "type": "commonjs",
+  "bin": {
+    "express-mvc-init": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mvc",
+    "express",
+    "scaffold",
+    "cli",
+    "generator",
+    "nodejs"
+  ],
+  "author": "Himanshu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/express-mvc-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/express-mvc-init/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/express-mvc-init#readme"
+}

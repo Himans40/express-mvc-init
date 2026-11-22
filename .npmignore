@@ -1,0 +1,7 @@
+# Exclude tests and dev files from the npm package
+tests/
+.gitignore
+.env
+.env.*
+*.log
+.DS_Store
