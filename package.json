@@ -30,10 +30,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/express-mvc-init.git"
+    "url": "git+https://github.com/Himans40/express-mvc-init.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/express-mvc-init/issues"
+    "url": "https://github.com/Himans40/express-mvc-init/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/express-mvc-init#readme"
+  "homepage": "https://github.com/Himans40/express-mvc-init#readme"
 }
